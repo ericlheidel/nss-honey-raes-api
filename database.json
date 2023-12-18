@@ -1,6 +1,12 @@
 {
     "users": [
       {
+        "id": 1,
+        "fullName": "Dion Stoade",
+        "email": "dstoade0@cornell.edu",
+        "isStaff": false
+      },
+      {
         "id": 2,
         "fullName": "Windy Thorneloe",
         "email": "wthorneloe1@usa.gov",
