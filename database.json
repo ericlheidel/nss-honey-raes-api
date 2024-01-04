@@ -66,8 +66,8 @@
   "employees": [
     {
       "id": 1,
-      "specialty": "Macbook Pros",
-      "rate": "100",
+      "specialty": "MacBook Air",
+      "rate": "105",
       "userId": 4
     },
     {
@@ -165,6 +165,11 @@
       "employeeId": 1,
       "serviceTicketId": 5,
       "id": 7
+    },
+    {
+      "employeeId": 1,
+      "serviceTicketId": 6,
+      "id": 8
     }
   ]
 }
